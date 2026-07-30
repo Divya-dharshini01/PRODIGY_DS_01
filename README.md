@@ -6,7 +6,7 @@ This task explores the Palmer Penguins dataset to understand how morphological t
 
 ## Dashboard Preview
 
-![Palmer Penguins Dashboard](Screenshot_penguins_dashboard.png1)
+![Palmer Penguins Dashboard](Screenshot_penguins_dashboard1.png)
 
 *Full-page interactive dashboard: KPI summary cards, a species-wise flipper length boxplot, and a stacked distribution histogram.*
 
